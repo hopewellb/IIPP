@@ -1,5 +1,5 @@
 # Games made for "An Introduction to Interactive Programming in Python"
-## All of these games are playable online using Codeskulptor, an online Python interpreter. Press the play button the Codeskulptor page to initiate each game
+## All of these games are playable in your browser using Codeskulptor, an online Python interpreter. Press the play button the Codeskulptor page to initiate each game
 
 [Guess the Number](http://www.codeskulptor.org/#user39_Kjf1dOTWLy_6.py)
 
